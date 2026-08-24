@@ -12,7 +12,7 @@ window.SITE = {
   logo: "/images/aluglass-logo.png",
   colors: { primary: "#0b3b73", secondary: "#1496e0", accent: "#7dd3fc", dark: "#071a33" },
   nav: [
-    ["Home","/"],["About","/about.html"],["Services","/services.html"],["Gallery","/gallery.html"],["Contact","/contact.html"]
+    ["Home","/"],["About","/about.html"],["Services","/services.html"],["Gallery","/gallery.html"],["Store","/store.html"],["Contact","/contact.html"]
   ],
   hero: [
     {image:"/images/project-11.jpeg",heading:"Clear Vision. Stronger Solutions.",phrases:["Premium aluminium doors & windows","Modern glass installations","Professional workmanship you can trust"]},
